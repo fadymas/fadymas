@@ -5,16 +5,13 @@
 - 🌱 I’m currently learning **React, Jest, playwright**
 
 - 💬 Ask me about **JavaScript**
-  
-![213910845-af37a709-8995-40d6-be59-724526e3c3d7](https://github.com/user-attachments/assets/0fe34e77-2391-4ecf-8cc3-23d6a0d92ca4)
-<br>
+
 - 📫 How to reach me **https://linkedin.com/in/fadymahrous**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1WzkKdL9PzrhUBnbsITDTkkANNeznW3Q6/view?usp=sharing](https://drive.google.com/file/d/1WzkKdL9PzrhUBnbsITDTkkANNeznW3Q6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/@fadymas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@fadymas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fady-mahrous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fady-mahrous" height="30" width="40" /></a>
 <a href="https://fb.com/fady.mahros.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fady.mahros.56" height="30" width="40" /></a>
 </p>
