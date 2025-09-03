@@ -1,6 +1,8 @@
 <h1 align="center">I'm Fady Mahrous</h1>
 <h3 align="center">Frontend Developer | CS Student</h3>
 
+<br/>
+
 - I’m currently learning **React, Problem solving**
 
 - 📄 [Check My CV](https://drive.google.com/file/d/1WzkKdL9PzrhUBnbsITDTkkANNeznW3Q6/view?usp=sharing)
@@ -30,13 +32,11 @@
 
 <h3>GitHub Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUserName&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=fadymas&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub Trophies"/>
 </a> </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadymas&layout=compact&langs_count=8&theme=dark" alt="Most Used Languages"/>
-</a>
-<a href="https://github.com/denvercoder1/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fadymas&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-</a>
-
+<p align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fadymas&theme=dark" alt="GitHub Streak"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadymas&layout=compact&theme=dark" alt="Top Languages"/>
+</p>
