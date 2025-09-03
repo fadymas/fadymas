@@ -29,7 +29,9 @@
 </p>
 
 <h3>GitHub Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fadymas" alt="fadymas" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=YourUserName&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
+</a> </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadymas&layout=compact&langs_count=8&theme=dark" alt="Most Used Languages"/>
