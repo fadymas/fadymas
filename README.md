@@ -5,7 +5,7 @@
 
 - I’m currently learning **React, Problem solving**
 
-- 📄 [Check My CV](https://drive.google.com/file/d/1WzkKdL9PzrhUBnbsITDTkkANNeznW3Q6/view?usp=sharing)
+- 📄 [Check My CV](https://drive.google.com/file/d/17KvUB2SY9lfMVuSFjAvE4I3dn5IY5G_y/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
