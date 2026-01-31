@@ -30,13 +30,14 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<h3>GitHub Trophies:</h3>
+<!-- <h3>GitHub Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy-gold.vercel.app/?username=fadymas&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub Trophies"/>
-</a> </p>
+</a> </p> -->
 
+<hr/>
 <p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fadymas&theme=dark" alt="GitHub Streak"/>
+ <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=fadymas&theme=dark" alt="GitHub Streak" /> -->
   
 <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fadymas&layout=compact&theme=dark" />
 </p>
