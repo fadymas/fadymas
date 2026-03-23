@@ -3,7 +3,7 @@
 
 <br/>
 
-- I’m currently learning **React, Problem solving**
+- I’m currently learning **System design, Problem solving**
 
 - 📄 [Check My CV](https://drive.google.com/file/d/17KvUB2SY9lfMVuSFjAvE4I3dn5IY5G_y/view?usp=sharing)
 
