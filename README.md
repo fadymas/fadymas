@@ -41,8 +41,3 @@
 </a> </p> -->
 
 <hr/>
-<p align="left">
- <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=fadymas&theme=dark" alt="GitHub Streak" /> -->
-  
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fadymas&layout=compact&theme=dark" />
-</p>
