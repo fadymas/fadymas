@@ -5,7 +5,7 @@
 
 - I’m currently learning **System design, Problem solving**
 
-- 📄 [Check My CV](https://drive.google.com/file/d/17KvUB2SY9lfMVuSFjAvE4I3dn5IY5G_y/view?usp=sharing)
+- 📄 [Check My CV](https://github.com/user-attachments/files/34936260/Fady_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
